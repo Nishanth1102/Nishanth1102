@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth</h1>
-<img align="right" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanth1102&label=Profile%20views&color=0e75b6&style=flat" alt="nishanth1102" /> </p>
 
 - 🌱 I’m currently learning **DSA**
